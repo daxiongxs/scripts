@@ -14,16 +14,10 @@ green="\033[0;32m"
 plain='\033[0m'
 
 sites=(
-http://www.zhuizishu.com/
-http://xs.56dyc.com/
-http://www.xiaoshuosk.com/
-https://www.quledu.net/
-http://www.ddxsku.com/
-http://www.biqu6.com/
-https://www.wenshulou.cc/
-https://www.php.baby/
-https://www.golglo.com/
-http://www.aiduxshuo.com/
+https://www.zhihu.com/
+https://www.douban.com/
+http://www.baidu.com/
+http://www.google.com/
 )
 
 function checkSystem()
